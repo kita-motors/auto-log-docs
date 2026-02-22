@@ -6,6 +6,7 @@ Auto Logは、車とバイクの給油記録・メンテナンス管理を行う
 
 ## 法的文書
 
+- [利用規約](TERMS_OF_SERVICE)
 - [プライバシーポリシー](PRIVACY_POLICY)
 - [データセーフティ情報](DATA_SAFETY)
 
