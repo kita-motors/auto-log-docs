@@ -337,4 +337,4 @@ Auto Log は車・バイクの給油記録、メンテナンス、車検・保�
 
 **Auto Log** by **Kitamotors**
 
-[← トップに戻る](index.md)
+[← トップに戻る](/auto-log-docs/)
